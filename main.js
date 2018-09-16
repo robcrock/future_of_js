@@ -1,8 +1,8 @@
 function getClothing(isCold) {
     if (isCold) {
-      var freezing = 'Grab a jacket!';
+      let freezing = 'Grab a jacket!';
     } else {
-      var hot = 'It’s a shorts kind of day.';
+      let hot = 'It’s a shorts kind of day.';
       console.log(freezing);
     }
   }
